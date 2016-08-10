@@ -1,4 +1,0 @@
-Git is a reposity.
-Git has a mutable index called stage.
-understand the differences of stage and workstation.
-SUCCESS SUCCESS SUCCESS SUCCESS SUCCESS SUCCESS SUCCESS SUCCESS SUCCESS 
